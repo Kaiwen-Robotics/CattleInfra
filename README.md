@@ -1,8 +1,6 @@
 # CattleInfra
-# An efficient infrared cattle face segmentation model
-# Coming Soon (After Paper Acceptted)
-
-# If the paper contributes your work, please cite our paper!
+## An efficient infrared cattle face segmentation model
+## If the paper contributes your work, please cite our paper!
 link to the paper: [Automated collection of facial temperatures in dairy cows via improved UNet](https://www.sciencedirect.com/science/article/pii/S016816992400005X)
 ```
 @article{SHU2024108614,
